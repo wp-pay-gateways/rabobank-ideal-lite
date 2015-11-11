@@ -13,8 +13,8 @@ On August 19, 2015 the Rabobank announced the end of alle iDEAL Lite subscriptio
 > Per 1 november 2015 stopt Rabobank definitief met iDEAL Lite. Dat betekent dat we door middel van deze brief uw iDEAL Lite overeenkomst beëindigen op die datum. Wilt u iDEAL blijven gebruiken in uw webwinkel? Stap dan nu over naar de Rabo OmniKassa en betaal de rest van het jaar geen abonnementskosten.
 > 
 > **Waarom overstappen naar de Rabo OmniKassa?**  
-> De Rabo OmniKassa is de complete webwinkelkassa van Rabobank. Daarmee kunt u niet alleen iDEAL betalingen ontvangen, maar ook de betaalmethoden MasterCard, VISA, Bancontact/Mister Cash, Maestro en V PAY aanbieden aan uw klanten. U regelt de transacties via één online loket dat u integreert met uw webwinkel.
-> De kenmerken op een rij:
+> De Rabo OmniKassa is de complete webwinkelkassa van Rabobank. Daarmee kunt u niet alleen iDEAL betalingen ontvangen, maar ook de betaalmethoden MasterCard, VISA, Bancontact/Mister Cash, Maestro en V PAY aanbieden aan uw klanten. U regelt de transacties via één online loket dat u integreert met uw webwinkel.  
+> De kenmerken op een rij:  
 > ✓    één online kassa voor een uitgebreid assortiment aan betaalmethoden  
 > ✓    online de transactiestatus volgen  
 > ✓    snel en gemakkelijk terugbetalingen regelen zonder Rabo Internetbankieren  
