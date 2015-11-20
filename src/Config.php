@@ -10,6 +10,6 @@
  */
 class Pronamic_WP_Pay_Gateways_Rabobank_IDealLite_Config extends Pronamic_WP_Pay_Gateways_IDealBasic_Config {
 	public function get_payment_server_url() {
-		return 'https://secure.mollie.nl/xml/idealAcquirer/lite/';
+		return 'https://ideal.rabobank.nl/ideal/mpiPayInitRabo.do';
 	}
 }
