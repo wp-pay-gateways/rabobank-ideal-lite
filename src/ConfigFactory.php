@@ -10,6 +10,6 @@
  */
 class Pronamic_WP_Pay_Gateways_Rabobank_IDealLite_ConfigFactory extends Pronamic_WP_Pay_Gateways_IDealBasic_ConfigFactory {
 	public function __construct() {
-		parent::__construct( 'Pronamic_WP_Pay_Gateways_Rabobank_IDealLite_Config', 'Pronamic_WP_Pay_Gateways_Rabobank_IDealLite_ConfigTest' );
+		parent::__construct( 'Pronamic_WP_Pay_Gateways_Rabobank_IDealLite_Config', 'Pronamic_WP_Pay_Gateways_Rabobank_IDealLite_TestConfig' );
 	}
 }
